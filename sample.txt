@@ -1,7 +1,1 @@
-hai this is my output -- jp
-
-HAI
-
-HELLO
-
-Im practicing in git tool
+hai this is jp!
